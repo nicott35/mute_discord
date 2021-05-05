@@ -1,5 +1,5 @@
 # mute_discord
-turn off discord mic
+turn off/on discord mic
 
 ### Prerequisites
 
