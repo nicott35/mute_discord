@@ -5,7 +5,7 @@ turn off/on discord mic
 
 sudo apt-get install xdotools
 
-### Bonus
+### More
 
 On Ubuntu, Associate this script to a GNOME shortcut \
 It would be  be useless and painful to execute it from terminal 
