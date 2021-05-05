@@ -7,5 +7,5 @@ sudo apt-get install xdotools
 
 ### More
 
-On Ubuntu, Associate this script to a GNOME shortcut \
-It would be  be useless and painful to execute it from terminal 
+On Ubuntu, associate this script to a GNOME shortcut.
+it wouldn't make sense to run it from a terminal
